@@ -25,11 +25,11 @@
 - toujours courrir + bruit chien + helico
 - Balle dans la jambe venant de derriere
 - toujours courrir (adrénaline)
-- essaye de se cacher
+- essaye de se cacher (respiration forte)
 - croise qqun, coup de feu (autre personne tombe)
 - repars
 - respiration pas ouf
 - marche en boitant
 - tombe
 - attente en entendant les autres arriver (+ chiens)
-- Balle finale
+- Balle finale tres forte mais tres courte
