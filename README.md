@@ -1,7 +1,7 @@
 # Projet_accoustique
 
 - Parachutage
-- Atterrissage (petite attente, coupage de corde)
+- Atterrissage (petite attente, coupage de corde) //petite attente + Coupage de corde fait
 - marche discrete (gravier, 5-6s)
 - ouverture de porte (lentement + grincement)
 
