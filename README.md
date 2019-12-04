@@ -7,16 +7,18 @@
 
 -             Silence
 - Déplacement discret dans une maison jusqu'au premier étage (2e porte)
-- 
--2e porte
-- Ronflement (cible qui dort)
-- Bruit d'animal
-- Ronflement stop
-- coup de feu x2 (chien + humain)
-- Panique (adrénaline)
+
+-En haut des éscaliers            // là ou j'ai démarré
+-rapide marche vers la 2ème porte    // fait 
+-2e porte                        // "fait", rajouter effet de porte qui se referme 
+- Ronflement (cible qui dort)    // fait mais juste chien, rend mal avec 2 ronflements / à test 
+- Bruit d'animal                  // chien ronfle, puis se reveille au coup de feu
+- Ronflement stop                 // ronflement devient aboiement
+- coup de feu x2 (chien + humain)   // todo: bruit de l'humain qui se fait shooter
+- Panique (adrénaline)            // coeur qui bat  // course rapide (rajouter effet)   //
 
 -             Fuite
-- Sortie par la fenetre (vitre brisé)
+- Sortie par la fenetre (vitre brisé)      // "fait"   , rajouter effet 
               Course pouruisite le plus rapidement
 - alarme de la maison (Quelques secondes) //Possibilité de créer le son (voir un des tp)
 - courrir //On a deja sur des feuilles, simple à trouver sur de l'herbe ou du gravier
