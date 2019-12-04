@@ -18,7 +18,7 @@
 - Panique (adrénaline)            // coeur qui bat  // course rapide (rajouter effet)   //
 
 -             Fuite
-- Sortie par la fenetre (vitre brisé)      // "fait"   , rajouter effet 
+- Sortie par la fenetre (vitre brisé)  + bruit de chute    // "fait"   , rajouter bruit de pluit quand vitre cassée
               Course pouruisite le plus rapidement
 - alarme de la maison (Quelques secondes) //Possibilité de créer le son (voir un des tp)
 - courrir //On a deja sur des feuilles, simple à trouver sur de l'herbe ou du gravier
