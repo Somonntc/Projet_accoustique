@@ -10,10 +10,10 @@
 
 -En haut des éscaliers            // là ou j'ai démarré
 -rapide marche vers la 2ème porte    // fait 
--2e porte                        // "fait", rajouter effet de porte qui se referme 
+-2e porte                        // "fait", rajouter effet de porte qui se referme (12s)
 - Ronflement (cible qui dort)    // fait mais juste chien, rend mal avec 2 ronflements / à test 
 - Bruit d'animal                  // chien ronfle, puis se reveille au coup de feu
-- Ronflement stop                 // ronflement devient aboiement
+- Ronflement stop                 // ronflement devient aboiement  // todo bruit des chiens qui s'attenue quand le mec fuit  // chien qui cours ?
 - coup de feu x2 (chien + humain)   // todo: bruit de l'humain qui se fait shooter
 - Panique (adrénaline)            // coeur qui bat  // course rapide (rajouter effet)   //
 
